@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for peace: shewing the dignitie of princes, against the many railings of the rabble, the invectives of the ignorant, and murmurs of the malicious. Written by a well-wisher to the peace of this our Sion.</title>
+            <author>A Well-Wisher to the Peace of This Our Sion.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90769</idno>
+            <idno type="STC">Wing P2515</idno>
+            <idno type="STC">Thomason E118_23</idno>
+            <idno type="STC">ESTC R212774</idno>
+            <idno type="EEBO-CITATION">99871345</idno>
+            <idno type="PROQUEST">99871345</idno>
+            <idno type="VID">156097</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156097)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for peace: shewing the dignitie of princes, against the many railings of the rabble, the invectives of the ignorant, and murmurs of the malicious. Written by a well-wisher to the peace of this our Sion.</title>
+                  <author>A Well-Wisher to the Peace of This Our Sion.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>September 22. London, Printed for Francis Coles,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Print show-through. Trimmed at foot, affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156097:1" rendition="simple:additions"/>
+            <p>A PLEA FOR PEACE: SHEWING THE DIGNITIE OF Princes, againſt the many Railings of the Rabble, the Invectives of the Ignorant, and Murmurs of the Malicious. Written by a Well-wiſher to the peace of this our Sion.</p>
+            <p>
+               <hi>September 22. London,</hi> Printed for <hi>Francis Coles.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156097:2"/>
+            <pb n="3" facs="tcp:156097:2"/>
+            <head>A Plea for Peace.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Government of the Civil Magiſtrate is the Ordinance and Inſtitution of the Almighty, I hope, at this time needs no diſputation, for that I beleeve it remaines without and beyond all matter of controverſie, the Lord himſelfe not ha<g ref="char:EOLhyphen"/>ving onely teſtified with acceptation and approbation thereof, but with much commendation hath ſet forth its honour and dignity to his people, as in <hi>Pſal.</hi> 82. 1, 6. God ſtandeth in the Congregation of the mighty, he judgeth among the Gods. I have ſaid, ye are Gods, and all of yee are children of the moſt High. <hi>Prov.</hi> 8. 15. By me Kings reigne and Princes decree Juſtice. And in the 16. By me Princes rule. <hi>Rom.</hi> 13. 1, 2. Let e<g ref="char:EOLhyphen"/>very ſoul be ſubject to the higher Powers, for there is no power but of God the powers that be are ordained of God, whoſoever reſiſteth the power reſiſteth the Ordinance of God, and they that reſiſt ſhall receive to themſelves damnation. And in the 5. verſ. he concludeth, that we muſt needs be ſubject not onely for wrath but for conſcience ſake. <hi>Eſay</hi> 49. 23. Kings ſhall be nurſing fathers and Queenes ſhall be nurſing mothers. 1 <hi>Tim.</hi> 2. 1, 2. I exhort therefore that firſt of all ſupplications, prayers, and interceſſions, and giving of thankes be made (for all men) for Kings and all that are in Authority, as if the Apoſtle had ſaid eſpe<g ref="char:EOLhyphen"/>cially for them, adding further reaſon, That we may leade a quiet life in all godlineſſe and honeſty, as if he there intended to teach Chriſtians (whatſoever their condition were) not to thinke of other weapons to mend themſelves than onely their prayers; many other places of Scripture might be alleaged to this purpoſe, but theſe I ſuppoſe are ſuf<g ref="char:EOLhyphen"/>ficient to let men know how deteſtable it is to the eares of God to heat a wicked <hi>Shimei</hi> curſing and railing againſt the Prince of his people, a ſin too too common in theſe our dayes, not onely among the baſeſt of men, but even in the Prieſts and paſtours of the people, who ſhould teach them a leſſon of meekneſſe, modeſty, and moderation, in ſtead of which they ſtir them up to madneſſe, ſedition, tumults, and faction, by rendring in what in them lie the perſon of ſacred Majeſty odious to all men, but whether in ſo doing they ſpit not in the face of the Al<g ref="char:EOLhyphen"/>mighty and ſtrike at his honour in the perſon of his Miniſtery, he
+<pb n="4" facs="tcp:156097:3"/> that hath an eye to ſee let him ſee. To ſtand here to make a large relati<g ref="char:EOLhyphen"/>on of the ſeverall ſorts of Government, or what juriſdiction would beſt ſuit with this or that people were a buſineſſe to as little purpoſe as pro<g ref="char:EOLhyphen"/>fit, and therefore briefly the beſt way is to fall quickly on the matter in<g ref="char:EOLhyphen"/>tended, for if we compare without circumſtance the ſeverall eſtates to<g ref="char:EOLhyphen"/>gether it will not be difficult to diſcerne which of them in profit over<g ref="char:EOLhyphen"/>balanceth the other, if they be impartially compared together; for as the way is eaſie to fall from kingdom into tyranny, ſo it is no way har<g ref="char:EOLhyphen"/>der to fall from the rule of many to the faction of a few, and moſt fa<g ref="char:EOLhyphen"/>cill of all from a plebean Government to fall to ſedition, but whatſo<g ref="char:EOLhyphen"/>ever the Lord hath eſtabliſht among us, it is not onely unſound but un<g ref="char:EOLhyphen"/>ſafe to ſeek to alter it, for that in ſo doing we contemne the providence of God, whatſoever therefore it hath pleaſed that eternall Majeſty to ſet over us, whether Kings over Kingdomes, Senators or Officers over free Cities, whoſoever he maketh Rulers in power over us it is our praiſe to yeeld obedience to them, and firſt acknowledging their po<g ref="char:EOLhyphen"/>wers from God let us reverently eſteem them as the deputies of God. Many indeed there are who hold the Civil Magiſtrate in a kinde of ve<g ref="char:EOLhyphen"/>nerable eſtimation, as things expedient for the common benefit, ac<g ref="char:EOLhyphen"/>counting them in themſelves no more in a manner than as neceſſary evils, but if they caſt their eye upon the rule of all good, they ſhall finde themſelves bound to a far greater reſpect. 1 <hi>Pet.</hi> 2. 17. Fear God, and honour the King; as if the fear of the one were inſeperably joyned with the honour of the other. <hi>Solomon Prov</hi> 24. 21. as with a ſelfe fame concluſion ſaith, My ſon fear thou the Lord and the King. And no whit inferiour is that example of <hi>Paul</hi> before alleaged, that we obey not onely for wrath but conſcience, as he had ſaid, that in ſo doing we yeeld our obedience to God, we muſt be obedient to them in every reſpect, obeying their proclamations, paying their tributes, and what not which ſtands not oppoſite to the Almighty; for as <hi>Paul</hi> ſaith, Every ſoul muſt be ſubject to the higher powers, and who ſo reſiſteth it, reſiſteth the Ordinance of God: and ſince the Magiſtrate cannot be reſiſted but with the reſiſtance of God himſelfe, though he be altogether naked, the Almighty is ever ſtrongly armed to take vengeance on thoſe who in themſelves do fight againſt him. Nor is this ſubjection and obedi<g ref="char:EOLhyphen"/>ence limited or reſtrained, ſo that it ſhall extend no further than to ſuch Princes whoſe pious and godly endeavours are ſtill executing their duties to the people, but even to the moſt lewd and malevolent Ma<g ref="char:EOLhyphen"/>giſtrate amongſt men, and to that purpoſe marke the cloſe of that moſt reverend, learned, and orthodox Divine Maſter <hi>Iohn Cal. l. 4. c. 2. ſect.</hi> 24. he cals a Prince the father of his Countrey, the Paſtor of his People, the keeper of peace, the protector of righteouſneſſe, the revenger of
+<pb n="5" facs="tcp:156097:3"/> innocency, and ſaith he, he is worthy to be accompted a mad man who alloweth not of ſuch a Government. But where as this is in a manner the experience of all ages, that of Princes ſome being careleſſe of all things, do without all care ſlothfully wallow in delights, other ſome ad<g ref="char:EOLhyphen"/>dicted to their gain do ſet out to ſale all Lawes, privileges, judgements, and grants; other ſome ſpoil the poor Communalty for money, to be waſted on their own prodigall and laviſh expendings; other ſome ex<g ref="char:EOLhyphen"/>erciſe meer robberies, in pilling of houſes, defiling of virgins and ma<g ref="char:EOLhyphen"/>trons, murdering of innocents, many cannot be perſwaded that ſuch ſhould be acknowledged for Princes whoſe authority they ought to obey ſo far as they may, for that in ſo great an unworthineſſe, ſo much contrarie not only to the dutie of a Magiſtrate, but even of a man, they behold no forme of the image of God which ſhould be in a Magiſtrate: and therefore conclude, that they ought not to acknowledge ſuch a Governour. And to ſay truth, this feeling of affection hath ever beene naturally implanted in the minds of all men, no leſſe to hate and abhor Tyrants, than to love and honour lawfull Kings. But if we look to the word of God (ſaith he) it will lead as further, teaching not only to ſub<g ref="char:EOLhyphen"/>ject our ſelves to the government of ſuch, who execute their office to<g ref="char:EOLhyphen"/>ward us well, and as they ought: but alſo unto theirs, who performe nothing leſſe than the dutie of Princes; for as thoſe who rule for the good and benefit of a Common-wealth, are true patternes of his boun<g ref="char:EOLhyphen"/>tie; ſo they that rule unjuſtly, wickedly, and wilfully, are ſet up by him to puniſh the naughtineſſe of the people. And that both equally have that Majeſtie wherewith hee furniſheth: lawfull power, concluding thus (in theſe words) that in a moſt naughtie man, and moſt unworthy of all honour, (if he have the Publike Power in poſſeſſion) remaineth that noble and divine power, which the Lord by his Word giveth to the Miniſters or his righteouſneſſe and judgement, and therefore that of his Subjects he ought to be had in as great reverence and eſtimation (for matter of publike obedience) as if hee were the verie beſt of Kings that could be given them. <hi>Nebuchadnezzar</hi> was little better than a robber and murderer, for he was a ſtrong invader and deſtroyer of others (and moſt certainly) he was an Idolater; yet mark what the Prophet <hi>Daniel</hi> ſpeaketh of him, <hi>Dan.</hi> 2. 37. Thou, O King, art a King of Kings, for the God of Heaven hath given thee a Kingdome, power, and ſtrength, and glorie, and whereſoever the children of men dwell. The beaſts of the field, and the fowles of the Heaven hath hee given into thine hand, and hath made thee Ruler over them all. Then againe <hi>Dan.</hi> 5 18 19. O thou King, the moſt mightie God gave <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi> thy father a kingdome, and majeſtie, and glorie, and honour, and for the Majeſtie that he gave him, all people, nations, and languages
+<pb n="6" facs="tcp:156097:4"/> trembled, and feared before him: whom he would he ſlue, and whom he would he kept alive, and whom he would he ſet up, and whom hee would he put downe. <hi>Samuel</hi> likewiſe premoniſhing the children of Iſrael of what they ſhould ſuffer under their Kingly government tel<g ref="char:EOLhyphen"/>leth them (yet in Gods owne words) 1 <hi>Sam.</hi> 8. 10, 11, 12. And <hi>Samuel</hi> told all the words of the Lord unto the people that asked of him a King, and he ſaid, This ſhall be the manner of the King that ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> over you: he will take your ſons, and appoint them for himſelfe for his char<g ref="char:EOLhyphen"/>riots, and to be his horſe-men, and ſome ſhall run before his charriots; and he will appoint him Captaines over thouſands, and Captaines over fifties, and will ſet them to eate his ground, and to reap his harveſt, and to make his inſtruments of war, and inſtruments of his charriots, and he will take your daughters to be Confectionaries, and to be Cooks, and to be Bakers, and he will take your fields, and your vineyards, and your olive-yards, even the beſt of them, and give them to his ſervants. And he will take the tenth of your ſeed, and of your vineyards, and give to his Officers, and to his ſervants; and hee will take your men-ſervants, and your maid-ſervants, and your goodlieſt young men, and your Aſſes, and put them to his work, &amp;c. As if <hi>Samuel</hi> ſhould have abſolutely concluded, that whatſoever be the lewdneſſe and licentiouſ<g ref="char:EOLhyphen"/>neſſe of the Prince, there is nothing but obedience left to the people, which they no ſooner run out of, but they as it were run from God in his Ordinances, and not only abſolutely oppoſe him, but contemptu<g ref="char:EOLhyphen"/>ouſly deſpite him and ſpit in his face.</p>
+            <p>
+               <hi>David</hi> when he had his great perſecutour <hi>Saul</hi> at his mercy, and though himſelfe by the ordinance of God was anointed King in his room, yet would not ſo much as lift up his hand to hurt him, for when <hi>Abiſhai</hi> with his own ſpear would have ſmote him, and nailed his bo<g ref="char:EOLhyphen"/>dy to that ground whereon he lay, 1 <hi>Sam. 26. 9, 23, 24, 25. David</hi> cries out, Who can ſtretch forth his hand againſt the Lords Anointed and be guiltleſſe? No, ſaith that good man, the Lord ſhall ſmite him, ere his day ſhall come to die, ere he ſhall deſcend into the battle, and periſh: the Lord forbid that I ſhould ſtretch forth my hand againſt the Lords Anointed: and well might <hi>Saul</hi> freely confeſſe and proclaim him more righteous than himſelfe, who when he took the ſpear and pot from his head, might as eaſily have taken his head from his ſhoulders; but he was well content with this conſciencious concluſion, As thy life was ſet by this day in mine eyes, ſo let my life be much ſet by in the eyes of the Lord, and let him deliver me out of all tribulation, as if that Worthy of Worthies ſhould have made this inference, though thou wickedly and maliciouſly ſeekeſt my life, yet art thou the Anointed of the Lord, ſo that ſhould I have laid hand on thee, I ſhould have made
+<pb n="7" facs="tcp:156097:4"/> my ſelfe abominable to him, and in ſtead of delivering me from, he would have caſt me into, for my crying offence even the greateſt tri<g ref="char:EOLhyphen"/>bulation. Curſe not, neither ſpeak evill of the Princes of thy people, no not in thought, ſaith <hi>Solomon, 1 Sam.</hi> 24. 4, 5, 6. And the ſame <hi>David</hi> in another place, when he might have cut the throat of his enemy <hi>Saul</hi> was conſcious of ſin in the cutting his garment, for ſaith the Text, his heart ſmote him becauſe he had cut off onely <hi>Sauls</hi> skirt: good men are conſciencious of the credit of a King while the wicked curſe and blaſpheme his name, if cutting onely the skirt of a King made ſuch ſmitings in the heart of a King, what may it do in Subjects, who would clip the wing of their Princes power, and inſlave him to infranchiſe themſelves. This amongſt us is dayly done in the common diſcourſe of every ſcoundrell, but let ſuch remember that curſing <hi>Shimei,</hi> eſcaped not without reward for his curſings, even then when he thought himſelfe ſafe and ſecure.</p>
+            <p>What the power of Parliaments are, I queſtion not; yet it is out of all queſtion, that they are by dutie bound carefully and conſcienciouſly to diſcharge that truſt which the people have committed unto them, and to defend their juſt liberties and privileges, ſo far as they bold correſpondencie with the knowne Lawes of the Land, yet with obe<g ref="char:EOLhyphen"/>dience unto that Majeſtie from whence as from their fountaine and originall (next under God) thoſe freedomes firſt came, rather willingly to loſe ſome thing of what is ours, that any way to encroach on the leaſt of his, with conſideration, that as Princes have their Juriſdictions from Heaven, ſo Parliaments hold their power from Princes.</p>
+            <p>It is a moſt horrible and hatefull hearing for men continually to cry out on Authority, one part of the King, the other of the Parliament, and that without either meane or moderation, and for the moſt part (ſet<g ref="char:EOLhyphen"/>ting their malevolent diſpoſitions aſide) without the leaſt ſhew of rea<g ref="char:EOLhyphen"/>ſon for their railings (nay ſhould they goe to it to morrow as many call it and deſire) not one of a thouſand I beleeve (except by tradition) were able to give an account for what, though for whom they fight, and w<hi rend="sup">ch</hi> is moſt to be lamented, Miniſters in the Pulpit are not aſhamed to preach &amp; pray againſt all means of moderation, or reconciliation, leſt as they ſay all ſhould again be ſpoyled which hath been ſo happily begun.</p>
+            <p>Theſe men little conſider the great diviſion of the Kingdome, where the father is of one ſide, the ſonne on the other, one brother on the one ſide, another on that; the Nephew for his Prince, the Uncle for the Parliament; here one Kinſman, there another; the Father ready to ſheathe his ſword in the body of his ſonne, the ſonne ready to rip out the bowels of his father; a brother bathing in the blood of a brother
+<pb facs="tcp:156097:5"/> and kinſman cutting the throat of another; friend butchering friend, and neighbour killing neighbour, and all things brought to ſuch a barba<g ref="char:EOLhyphen"/>rous cruelty, as if there were no Religion left amongſt men beſide murder, no rule but rapine, no regulation but ruine and deſtruction; children ſnatcht from the parents wing, babes from the mothers ten<g ref="char:EOLhyphen"/>der breſt, and barborouſly butchered before their eyes, wives rent from the boſome of their mourning husbands and raviſht, they being forc'd to be ſpectators. Virgins whoſe tender yeeres ſcarce ever did admit ſo much as thought of man, deflowred before their parents mournefull eyes: Nay Churches will ſcarce eſcape from being oreſpread with gore, the Table where wee have often freely fed on by faith the Body and Blood of a Redeemer, now ſtained even with the blood of thoſe our painfull Paſtors, who all their times have laboured to inſtruct thoſe to eternall life, who now with earneſtnes do ſeek their death Sure if wee could but attain to a true apprehenſion of theſe inſuing miſeries, the inſeparable companions of homebred broyles, it could not chuſe but mollifie the flintieſt heart, and make the marble melt with teares of mourning, and force theſe praters which now preach nothing elſe but warre, to tune their tongues with pious prayers for peace, which God of his infinite mercy once more ſettle amongſt us to the glory of his ſacred name, and the good of his poore diſtreſſed people, and let all good ſubjects ſay Amen.</p>
+            <p>I will conclude all with two verſes of the Propheticall Pſalmiſt; <hi>He that delighteth in blood ſhall not live out halfe his dayes, and the Lord ſhall ſcatter the people that delight in warre.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
